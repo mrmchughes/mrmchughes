@@ -6,8 +6,6 @@ Proven ability to effectively prioritize tasks with a team-oriented, collaborati
 
 Currently looking for full time roles such as: Software Engineer, Frontend Developer, Full Stack Engineer, Full Stack Developer, Software Developer.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on (https://www.theodinproject.com/)
 - 🌱 Always looking to learn new things and improve on preexisting skills 
 - 👯 I’m looking to collaborate on other devs on group projects.
