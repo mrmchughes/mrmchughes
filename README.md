@@ -24,3 +24,5 @@ Currently looking for full time roles such as: Software Engineer, Frontend Devel
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp; 
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmchughes&show_icons=true&layout=compact&theme=synthwave)
