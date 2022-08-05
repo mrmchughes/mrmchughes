@@ -30,4 +30,4 @@ Currently looking for full time roles such as: Software Engineer, Frontend Devel
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmchughes&show_icons=true&layout=compact&theme=synthwave)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmchughes&show_icons=true&layout=compact&theme=radical)
