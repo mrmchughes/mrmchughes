@@ -8,7 +8,7 @@ Currently looking for full time roles such as: Software Engineer, Frontend Devel
 
 - 🔭 I’m currently working on (https://www.theodinproject.com/)
 - 🌱 Always looking to learn new things and improve on preexisting skills 
-- 👯 I’m looking to collaborate on other devs on group projects.
+- 👯 I’m looking to collaborate with other devs on group projects.
 - 📫 How to reach me: mrmchughes27@gmail.com or at https://www.linkedin.com/in/michaelhughes27/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love getting to enjoy a good game of Dungeons and Dragons with my friends.
